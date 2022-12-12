@@ -1,0 +1,85 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.bd{
+    background-image:url(images/hec.jpg);
+    margin-top: 20px;
+    position: relative;
+}
+.container{
+    background-color: rgb(247, 247, 247);   
+    margin: 0 120px 0 690px;
+    position: fixed;
+    padding: 15px 1px;
+    text-decoration: none;
+    border-radius: 2px;
+}
+.container h1,span{
+    margin:0 20px;
+    margin-top: 10px;
+}
+.container p{
+    margin:0 25px;
+    margin-top: 2px;
+}
+.btn{
+    padding: 8px 30px;
+    margin: 0 16px;
+    border-radius: 5px;
+ border-color: 0.5px rgb(0, 0, 0);
+    
+}
+
+.row p{
+    font-size: small;
+    font-weight: 100;
+    position: relative;
+    
+}
+.row{
+   
+margin-top: 15px;
+border-radius: 5px;
+ border-color: 0.5px rgb(0, 0, 0);
+padding: 2px;
+
+position: relative;
+}
+.sp{
+   display: flex;     
+    border-radius: 5px;
+    border-color: 0.5px rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: smaller;
+
+}
+.btn1 {
+    text-align: center;
+    padding: 8px  166px;
+    margin: 0 18px;
+    border-radius: 5px;
+    border-color: 0.5px rgb(0, 0, 0);
+
+}
+.btn2{
+    padding: 8px  220px;
+    margin: 0 18px;
+    border-radius: 5px;
+    border-color: 0.5px rgb(0, 0, 0);
+    background-color: rgb(104, 222, 222);
+    font-size: large;
+}
+.btn3{
+    padding: 8px 70px;
+    margin: 0 18px;
+    border-radius: 5px;
+    border-color: 0.5px rgba(1, 0, 0, 0.512);
+}
+.row1{
+    
+margin-top: 15px;
+padding: 2px;
+position: relative;
+border-radius: 5px;
+    }
